@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jupyter-test/static/css/main.37fd82a7.css",
-    "main.js": "/jupyter-test/static/js/main.c848dcf5.js",
+    "main.js": "/jupyter-test/static/js/main.b1bd45cb.js",
     "index.html": "/jupyter-test/index.html",
     "static/media/logo.svg": "/jupyter-test/static/media/logo.429e1c6fd0d17743b35acde3953f98ab.svg",
     "main.37fd82a7.css.map": "/jupyter-test/static/css/main.37fd82a7.css.map",
-    "main.c848dcf5.js.map": "/jupyter-test/static/js/main.c848dcf5.js.map"
+    "main.b1bd45cb.js.map": "/jupyter-test/static/js/main.b1bd45cb.js.map"
   },
   "entrypoints": [
     "static/css/main.37fd82a7.css",
-    "static/js/main.c848dcf5.js"
+    "static/js/main.b1bd45cb.js"
   ]
 }
