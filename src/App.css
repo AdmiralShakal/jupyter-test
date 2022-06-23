@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Epilogue';
+}
+
+body {
+  min-height: 100vh;
+  min-width: 1440px;
+}
+
+@media (max-width: 1039.98px) {
+  body {
+    min-width: 375px;
+  }
+}
